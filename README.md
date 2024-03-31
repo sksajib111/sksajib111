@@ -13,7 +13,7 @@ with my hard work, skill, and dedication.</h3>
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, AWS, GraphQl**
+ 🌱 I’m currently learning **Docker, AWS, GraphQl and React-Native**
 
 💬 Ask me about **JavaScript, TypeScript, React, NodeJS, Express.JS, MongoDB etc.**
 
