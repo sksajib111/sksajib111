@@ -1,13 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sksajib111.sksajib111" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.Ashifur+Rahaman;+I'm+a+MERN+Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md Ashifur+Rahaman;+I'm+a+MERN+Stack+Developer;" />
 </h1>
 
 <h3 align="center">I want to use my integrated knowledge to establish my professional path in modern technology. 
-I always focus on learning new technologies. 
-I wish to work in a progressive organization and contribute to the development of the organization 
-with my hard work, skill, and dedication.</h3>
+I always focus on learning new technologies. </h3>
 
 <br/>
 
