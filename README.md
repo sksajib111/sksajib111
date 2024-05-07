@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">I want to use my integrated knowledge to establish my professional path in modern technology. 
-I always focus on learning new technologies. </h3>
+I always focus on learning new technologies. Happy Coding 🥰</h3>
 
 <br/>
 
