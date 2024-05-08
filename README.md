@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md Ashifur+Rahaman;+I'm+a+MERN+Stack+Developer;" /> -->
-   https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I%27m+Md+Ashifur+Rahaman;I%27m+a+MERN+Stack+Developer
+   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I%27m+Md+Ashifur+Rahaman;I%27m+a+MERN+Stack+Developer" />
 </h1>
 
 <h3 align="center">I want to use my integrated knowledge to establish my professional path in modern technology. 
