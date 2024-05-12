@@ -5,16 +5,15 @@
    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!%F0%9F%91%8B;I%27m+Md+Ashifur+Rahaman;I%27m+a+MERN+Stack+Developer" />
 </h1>
 
-<h3 align="center">I want to use my integrated knowledge to establish my professional path in modern technology. 
+<h3 align="center">I am a Professional Frontend and MERN Stack Developer From Bangladesh. I want to use my integrated knowledge to establish my professional path in modern technology. 
 I always focus on learning new technologies. Happy Coding 🥰</h3>
 
 <br/>
 
 <div align="center">
- 
+ 👯 I’m looking to collaborate on: Exciting MERN stack projects that push the boundaries of web development.
  🌱 I’m currently learning **Docker, AWS, GraphQl and React-Native**
-
-💬 Ask me about **JavaScript, TypeScript, React, NodeJS, Express.JS, MongoDB etc.**
+💬 Ask me about: Anything related to MERN stack development and best practices.**
 
 
  </div>
