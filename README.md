@@ -11,11 +11,12 @@ I always focus on learning new technologies. Happy Coding 🥰</h3>
 <br/>
 
 <div align="center">
- 👯 I’m looking to collaborate on: Exciting MERN stack projects that push the boundaries of web development.
+   
+ 👯 I’m looking to collaborate on: **Exciting MERN stack projects that push the boundaries of web development.**
+ <br/>
  🌱 I’m currently learning **Docker, AWS, GraphQl and React-Native**
-💬 Ask me about: Anything related to MERN stack development and best practices.**
-
-
+ <br/>
+💬 Ask me about: **Anything related to MERN stack development and best practices.**
  </div>
  
 <div align="center"> 
