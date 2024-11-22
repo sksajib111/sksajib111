@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sksajib111.sksajib111" />
 
 <h1 align="center">
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md Ashifur+Rahaman;+I'm+a+MERN+Stack+Developer;" /> -->
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD ASHIFUR+RAHAMAN;+I'm+a+MERN+STACK+DEVELOPER;" /> -->
    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!%F0%9F%91%8B;I%27m+Md+Ashifur+Rahaman;I%27m+a+MERN+Stack+Developer" />
 </h1>
 
@@ -19,7 +19,7 @@ I always focus on learning new technologies.</h3>
 💬 Ask me about: **Anything related to MERN stack development and best practices.**
  </div>
  
-<div align="center"> 
+<div align="center">
   <a href="mailto:ashifurrahamansajib@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -30,7 +30,6 @@ I always focus on learning new technologies.</h3>
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
